@@ -26,10 +26,10 @@
   },
   "homepage": "https://github.com/skolelab/airbit.wiki/Home",
   "dependencies": {
-    "marked": "^0.3.7",
     "escape-html": "^1.0.3",
-    "valid-url": "^1.0.9",
-    "highlight.js": "^9.12.0"
+    "highlight.js": "^9.12.0",
+    "marked": "^0.3.7",
+    "valid-url": "^1.0.9"
   },
   "devDependencies": {
     "@types/highlight.js": "^9.12.2",

@@ -4,3 +4,4 @@ public/js/jszip-utils/test
 public/wiki
 .vs
 *.exe
+venv

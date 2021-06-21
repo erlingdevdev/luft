@@ -58,8 +58,8 @@ func sendFile(fh *multipart.FileHeader, c chan PostResponse, wg *sync.WaitGroup)
 		fmt.Println(err)
 	}
 
-	// url := "http://localhost:8080/api/upload"
-	url := "https://luft-184208.appspot.com/api/upload"
+	url := "http://localhost:8000/api/upload"
+	// url := "https://luft-184208.appspot.com/api/upload"
 
 	var filename string
 
